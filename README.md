@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @costin-t - Sofonea Costin
+- 👋 Hi, I’m @costin-t -Costin
 - 👀 I’m interested in learning as much as possible 
 - 🌱 I’m currently learning Databases and Software Technologies at University of Bucharest;
