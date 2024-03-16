@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @costin-t -Costin
-- 👀 I’m interested in learning as much as possible 
 - 🌱 I have completed my studies in Databases and Software Technologies at the University of Bucharest.;
